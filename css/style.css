@@ -471,7 +471,7 @@ body {
   top: 0;
   left: 0;
   right: 0;
-  background: #fff;
+  background: url("/images/banner.jpg");
   padding: 5px 15px;
   border-radius: 15px;
   -webkit-box-shadow: 0 0 10px rgba(0,0,0,0.3);
